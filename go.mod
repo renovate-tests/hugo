@@ -50,7 +50,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.0.0
 	github.com/spf13/nitro v0.0.0-20131003134307-24d7ef30a12d
 	github.com/spf13/pflag v1.0.2
-	github.com/spf13/viper v1.2.0
+	github.com/spf13/viper v1.2.1
 	github.com/stretchr/testify v1.2.2
 	github.com/tdewolff/minify v2.3.5+incompatible
 	github.com/tdewolff/parse v2.3.3+incompatible // indirect
