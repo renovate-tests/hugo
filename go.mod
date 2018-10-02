@@ -39,7 +39,7 @@ require (
 	github.com/nicksnyder/go-i18n v1.10.0
 	github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/russross/blackfriday v0.0.0-20180804101149-46c73eb196ba
+	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/sanity-io/litter v1.1.0
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/shurcooL/sanitized_anchor_name v0.0.0-20170918181015-86672fcb3f95 // indirect
