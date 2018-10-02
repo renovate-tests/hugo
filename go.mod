@@ -12,7 +12,7 @@ require (
 	github.com/bep/debounce v1.1.0
 	github.com/bep/gitmap v1.0.0
 	github.com/bep/go-tocss v0.5.0
-	github.com/chaseadamsio/goorgeous v1.1.0
+	github.com/chaseadamsio/goorgeous/v2 v2.0.0
 	github.com/cpuguy83/go-md2man v1.0.8 // indirect
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
 	github.com/disintegration/imaging v1.5.0
