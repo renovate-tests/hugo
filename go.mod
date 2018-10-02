@@ -34,7 +34,7 @@ require (
 	github.com/miekg/mmark v1.3.6
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/mitchellh/mapstructure v1.0.0
-	github.com/muesli/smartcrop v0.0.0-20180228075044-f6ebaa786a12
+	github.com/muesli/smartcrop v0.2.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/nicksnyder/go-i18n v1.10.0
 	github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84
