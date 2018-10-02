@@ -1,0 +1,4 @@
+{
+  "extends": [":gomod"],
+  "enabledManagers": ["gomod"]
+}
